@@ -1,0 +1,11 @@
+C:\Users\MSI\source\repos\LabPeriodo2Kevin\LabPeriodo2Kevin\bin\Debug\LabPeriodo2Kevin.exe.config
+C:\Users\MSI\source\repos\LabPeriodo2Kevin\LabPeriodo2Kevin\bin\Debug\LabPeriodo2Kevin.exe
+C:\Users\MSI\source\repos\LabPeriodo2Kevin\LabPeriodo2Kevin\bin\Debug\LabPeriodo2Kevin.pdb
+C:\Users\MSI\source\repos\LabPeriodo2Kevin\LabPeriodo2Kevin\bin\Debug\LabPeriodo2Kevin.xml
+C:\Users\MSI\source\repos\LabPeriodo2Kevin\LabPeriodo2Kevin\obj\Debug\LabPeriodo2Kevin.vbprojAssemblyReference.cache
+C:\Users\MSI\source\repos\LabPeriodo2Kevin\LabPeriodo2Kevin\obj\Debug\LabPeriodo2Kevin.Resources.resources
+C:\Users\MSI\source\repos\LabPeriodo2Kevin\LabPeriodo2Kevin\obj\Debug\LabPeriodo2Kevin.vbproj.GenerateResource.cache
+C:\Users\MSI\source\repos\LabPeriodo2Kevin\LabPeriodo2Kevin\obj\Debug\LabPeriodo2Kevin.vbproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\LabPeriodo2Kevin\LabPeriodo2Kevin\obj\Debug\LabPeriodo2Kevin.exe
+C:\Users\MSI\source\repos\LabPeriodo2Kevin\LabPeriodo2Kevin\obj\Debug\LabPeriodo2Kevin.xml
+C:\Users\MSI\source\repos\LabPeriodo2Kevin\LabPeriodo2Kevin\obj\Debug\LabPeriodo2Kevin.pdb
